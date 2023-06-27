@@ -1,0 +1,8 @@
+.text-container { /* Configurações Texto */
+    margin-left: 20px; /* Ajuste o espaçamento esquerdo conforme necessário */
+    margin-top: -300px; /*Leva o texto para cima */
+    text-align: left; 
+    font-size: 22px;
+  }
+  
+  
